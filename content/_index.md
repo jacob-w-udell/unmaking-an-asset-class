@@ -9,11 +9,11 @@ title: Home
 
 # Unmaking An Asset Class
 
-### Resources and writng on real estate finance and landlord operations, with a focus on NYC.
+### Resources and writing on real estate finance and landlord operations, with a focus on NYC.
 
-About twenty years ago Jobs and Wozniak, the founders of Apple, came up with the very strange idea of selling information processing machines for use in the home. But around the same time, Bill Gates and Paul Allen came up with an idea even stranger and more fantastical: **selling computer operating systems**.
+Real estate as an asset class was made (italicize this) -- homogenization of risk, rising property values etc etc ... any alternative vision requires that we **unmake it**.
 
-This was much weirder than the idea of Jobs and Wozniak.
+Writings, resources, readings devoted to making that happen.
 
 ~~~ruby
 def word_up(value)
