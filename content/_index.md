@@ -4,7 +4,7 @@ title: Home
 
 <img
   id="main-image"
-  src="/images/partywizard.gif"
+  src="static/images/partywizard.gif"
   alt="Kellen Face">
 
 # Unmaking An Asset Class
