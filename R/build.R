@@ -13,3 +13,10 @@ file.edit(".gitignore")
 
 blogdown::check_gitignore()
 blogdown::check_content()
+
+rstudioapi::navigateToFile("config.yaml", line = 3)
+
+blogdown::check_netlify()
+blogdown::check_hugo()
+
+rstudioapi::navigateToFile("config.toml")
