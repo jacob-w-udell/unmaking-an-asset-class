@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Classic"
+title = "Home"
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -11,16 +11,35 @@ footnotereturnlinkcontents = "↩"
     post = "/post/:year/:month/:day/:slug/"
 
 [[menu.main]]
+    name = "About"
+    url = "/about/" #need to make a matching about
+    weight = 1
+[[menu.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
-[[menu.feed]]
-    name = "Subscribe"
-    url = "/index.xml"
+    weight = 3
+[[menu.main]]
+    name = "blog"
+    url = "/categories/blog/"
+    weight = 4
+# Testing out whether I can direct items in the main menu to a specific category
+[[menu.main]]
+    name = "resources"
+    url = "/categories/resources/"
+    weight = 5
+[[menu.main]]
+    name = "guides"
+    url = "/categories/guides/"
+    weight = 6
+
+
+#[[menu.feed]]
+    #name = "Subscribe"
+    #url = "/index.xml"
 
 [params]
     description = "A simple, minimal blog for those who love text."

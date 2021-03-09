@@ -1,5 +1,7 @@
 # https://alison.rbind.io/post/new-year-new-blogdown/
 
+#setwd("/home/jacobudell/Desktop/Website/unmaking-an-asset-class")
+
 library(blogdown)
 new_site(theme = "goodroot/hugo-classic")
 
