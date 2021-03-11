@@ -2,8 +2,6 @@
 title: Home
 ---
 
-# Unmaking An Asset Class
-
 <img
   id="main-image"
   src="/images/Grand_Concourse.png"
@@ -11,6 +9,9 @@ title: Home
   height="225"
   weight="151"
   style="float:right">
+
+
+# Unmaking An Asset Class
 
 ### Resources and writing on rental housing finance and landlord operations
 
