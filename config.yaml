@@ -22,6 +22,10 @@ menu:
     - name: Tags
       url: /tags/
       weight: 2
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   custom_css: css/theme-override.css
   description: A simple, minimal blog for those who love text.

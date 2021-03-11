@@ -1,15 +1,13 @@
 ---
-title: Home
+title: "Unmaking an Asset Class"
 ---
 
 <img
-  id="main-image"
   src="/images/Grand_Concourse.png"
   alt="Grand Concourse"
   height="225"
   weight="151"
   style="float:right">
-
 
 # Unmaking An Asset Class
 
