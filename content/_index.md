@@ -8,13 +8,15 @@ title: Home
 
 We sometimes hear that housing in our era -- say from the early 90s to today -- is 'financialized' or 'commodified'. But what does that mean? What exactly is unique about this era? And what impact should this have on our organizing, strategy, and politics?
 
-This site is about trying to explore those questions. As a start, I want to define housing today as a **global asset class**. 
+This site is about trying to explore those questions. As a start, I want to define housing today as a **global asset class** (Link). 
 
+##### use this stuff for defining asset class post -- start
 By *global*, I mean that capital from around the world now flows into local housing markets. Housing is by definition place-bound, tied up in neighborhood politics and local dynamics. Even today, most landlords (corporate or family-run) have at least some local component, because owning and managing a building requires being hands-on. But increasingly, an investor from halfway across the country or the world -- with little to no understanding of the local -- can invest in housing. 
 
 By *asset class*, I mean that housing was made invest-able. Things only become investment assets when investors feel that they can anticipate future changes in the value of that thing. They want to be able to understand the risks involved, and be able to make bets that will steadily produce value. Housing, by nature, is not necessarily this sort of thing, precisely because it is so tied to the un-quantifiable aspects of local politics and dynamics. 
 
 Housing had to be *made* into an asset. This required a number of concrete historical developments, all of which led to the homogenization of financial risk, and most importantly, **the steady and know-able rise in property values** (or at least a mostly know-able cycles of booms and busts).
+#### -- end
 
 Housing in our era produces rising values more consistently than just about an other financial asset, for homeowners and for landlords. And the system we've created treats the asset prices of housing as just as important as whether properties are being used to provide safe, decent, and affordable homes. Or maybe a better way to say it is -- our system is willing to producing safe, decent, and affordable homes only to the extent that those things don't infringe on the role of housing as a financial asset (or on profit generally).
 
@@ -30,6 +32,7 @@ This site is divided into three different areas:
 
 If you're looking for places to start, try:
 
+- Defining Housing as an Asset Class (Link)
 - Landlord Operations -- a quick guide (Link)
 - Bank Financing series (Links 1, 2, 3, 4, 5)
 - Capital Stack (Link)
