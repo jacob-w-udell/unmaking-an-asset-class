@@ -10,31 +10,30 @@ footnotereturnlinkcontents = "↩"
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
 
-[[menu.main]]
-    name = "About"
-    url = "/about/" #need to make a matching about
-    weight = 1
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 2
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-[[menu.main]]
-    name = "blog"
-    url = "/categories/blog/"
-    weight = 4
-# Testing out whether I can direct items in the main menu to a specific category
-[[menu.main]]
-    name = "resources"
-    url = "/categories/resources/"
-    weight = 5
+## Keeping these in here so that I can remember the structure
+#[[menu.main]]
+    #name = "Categories"
+    #url = "/categories/"
+    #weight = 2
+#[[menu.main]]
+    #name = "Tags"
+    #url = "/tags/"
+    #weight = 3
+    
 [[menu.main]]
     name = "guides"
     url = "/categories/guides/"
+    weight = 4
+[[menu.main]]
+    name = "resources"
+    url = "/categories/resources/"
+    weight = 5 
+[[menu.main]]
+    name = "blog"
+    url = "/categories/blog/"
     weight = 6
+
+
 
 
 #[[menu.feed]]
@@ -43,7 +42,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A simple, minimal blog for those who love text."
-    footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+    footer = "Open-Source | [Github](https://github.com/jacob-w-udell/unmaking-an-asset-class) | | [Source](https://github.com/goodroot/hugo-classic) | [Email](mailto:judell12@gmail.com)"
     custom_css = ["css/theme-override.css"]
 
 # If you want to use Fathom (https://usefathom.com) for analytics, add this section
