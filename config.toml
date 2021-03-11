@@ -33,8 +33,10 @@ footnotereturnlinkcontents = "↩"
     url = "/categories/blog/"
     weight = 6
 
-
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 #[[menu.feed]]
     #name = "Subscribe"
