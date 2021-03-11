@@ -1,15 +1,23 @@
 ---
 title: Home
 ---
-  
+
 # Unmaking An Asset Class
 
-### Resources and writing on real estate finance and landlord operations, with a focus on NYC.
+### Resources and writing on real estate finance and landlord operations
 
-Real estate as an asset class was made (italicize this) -- homogenization of risk, rising property values etc etc ... any alternative vision requires that we **unmake it**.
+Real estate as an asset class was *made* -- homogenization of risk, rising property values etc etc ... any alternative vision requires that we *unmake it*.
 
 Writings, resources, readings devoted to making that happen.
+
+<img align="left" 
+  width="100" 
+  height="100" 
+  src="/static/images/Grand_Concourse.png">
+
 
 ---
 
 ### Posts
+
+
