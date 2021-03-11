@@ -23,7 +23,8 @@ This section will mostly include links to other people's writing that I've found
 ##### Blog (*link*) 
 This section will include shorter, less theoretical posts -- tracking individual buildings, landlords, or developments that I think are important.
 
-If you're looking for places to start, try:
+
+And if you're looking for places to start, try:
 
 - Defining Housing as an Asset Class (*link*)
 - Landlord Operations -- a quick guide (*link*)
