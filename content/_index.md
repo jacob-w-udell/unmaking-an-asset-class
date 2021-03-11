@@ -2,14 +2,17 @@
 title: "Unmaking an Asset Class"
 ---
 
+# Unmaking An Asset Class
+
+<a href="https://en.wikipedia.org/wiki/Grand_Concourse_(Bronx)#/media/File:1650_Grand_Concourse.jpg">
 <img
+  id="main-image"
   src="/images/Grand_Concourse.png"
   alt="Grand Concourse"
-  height="225"
-  weight="151"
-  style="float:right">
-
-# Unmaking An Asset Class
+  width="40%"
+  style="float:right;
+  margin:10px 10px 10px 10px:"/>
+</a>
 
 ### Resources and writing on rental housing finance and landlord operations
 
