@@ -12,7 +12,7 @@ title: "Unmaking an Asset Class"
   margin:10px 10px 20px;"/>
 </a>
 
-# Unmaking An Asset Class
+# Unmaking An Asset Class (:
 
 ### Resources and writing on rental housing finance and landlord operations
 
