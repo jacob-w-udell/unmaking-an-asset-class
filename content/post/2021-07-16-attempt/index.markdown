@@ -4,7 +4,7 @@ author: Jacob Udell
 date: '2021-07-16'
 slug: attempt
 categories:
-  - resources
+  - blog
 tags: []
 description: ''
 ---
