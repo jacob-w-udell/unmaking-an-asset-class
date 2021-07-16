@@ -1,7 +1,7 @@
 ---
 author: Open Source
 categories:
-- Code
+- guides
 date: "2012-01-23"
 slug: juicy-code
 tags:
