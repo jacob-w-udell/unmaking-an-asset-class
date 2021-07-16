@@ -3,7 +3,7 @@ title: "Hi Hugo"
 author: ''
 date: '2021-03-08'
 slug: hi-hugo
-categories: blog
+categories: 
 tags: []
 description: ''
 ---
