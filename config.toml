@@ -32,6 +32,10 @@ footnotereturnlinkcontents = "↩"
     name = "blog"
     url = "/categories/blog/"
     weight = 6
+[[menu.main]]
+  name = "about"
+  url = "/categories/about"
+  weight = 7
 
 [markup]
   [markup.goldmark]
