@@ -1,9 +1,0 @@
----
-title: test_post
-author: Jacob Udell
-date: '2021-07-16'
-slug: test-post
-categories: [blog]
-tags: []
-description: ''
----
