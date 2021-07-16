@@ -12,12 +12,12 @@ title: "Unmaking an Asset Class"
   margin:10px 10px 20px;"/>
 </a>
 
-# Unmaking An Asset Class (:
+# Unmaking An Asset Class
 
 ### Resources and writing on rental housing finance and landlord operations
 
 
-We sometimes hear that housing is 'financialized' or 'commodified'. But what does that mean? And what impact should this have on our organizing, strategy, and politics? This site is about trying to explore those questions. As a start, I want to define housing today as a *global asset class*. 
+We sometimes hear that housing is 'financialized' or 'commodified'. But what does that mean? And what impact should this have on our organizing, strategy, and politics? This site is about trying to explore those questions, with a focus less on development (the production of new housing) and more on the existing stock of housing. As a start, I want to define existing housing today as a *global asset class*. 
 
 See here (*link*) for a longer definition. But in short: by global, I mean that capital from around the country and the world now flows into local housing markets. By asset class, I mean that housing was made invest-able to that capital, such that investors felt like they can anticipate future changes in the value of housing, even from a distance. 
 
